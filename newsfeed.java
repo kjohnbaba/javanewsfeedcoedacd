@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Newsfeed {
   
-  String[] topics = {"Opinion", "Tech", "Science", "Health"};
+  String[] topics = {"Food", "Tech", "Travel", "Games"};
   int[] views = {0, 0, 0, 0};
   
   public Newsfeed(){
